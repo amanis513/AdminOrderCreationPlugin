@@ -1,8 +1,9 @@
 {
-    "name": "sylius/admin-order-creation-plugin",
+    "name": "amanis513/admin-order-creation-plugin",
     "type": "sylius-plugin",
     "keywords": ["sylius", "sylius-plugin", "symfony", "e-commerce", "admin order creation"],
     "description": "Sylius Plugin for order creation in Admin panel",
+    "version": "0.13.0",
     "license": "MIT",
     "authors": [
         {

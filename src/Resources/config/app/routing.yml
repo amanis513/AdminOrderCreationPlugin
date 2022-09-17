@@ -94,5 +94,6 @@ sylius_admin_order_creation_ajax:
     prefix: admin/ajax
     resource: "@SyliusAdminOrderCreationPlugin/Resources/config/app/ajax.yml"
 
-fos_js_routing:
-    resource: "@FOSJsRoutingBundle/Resources/config/routing/routing.xml"
+# ak sa to hodi normalne do routingu, je to zdvojene, netreba
+#fos_js_routing:
+#    resource: "@FOSJsRoutingBundle/Resources/config/routing/routing.xml"
